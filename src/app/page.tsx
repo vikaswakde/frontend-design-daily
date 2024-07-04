@@ -7,9 +7,12 @@ export default function Home() {
       <h4 className="text-3xl font-extrabold">Hello Welcome to my website</h4>
       <p className="font-bold">This is is the list of my work i am doing</p>
       <ul>
-        <li>
+        <li className="flex flex-col gap-2 mt-2">
           <a href="/frontend-mentor-1" className="cursor-pointer">
             1. Responsive Card Design
+          </a>{" "}
+          <a href="/frontend-mentor-2" className="cursor-pointer">
+            2. Feedback Rating Card Design
           </a>
         </li>
       </ul>
