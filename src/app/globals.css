@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+@font-face {
+  font-family: "Poppins-Regular";
+  src: url("../../public/assets/fonts/Poppins-Regular.ttf");
+}

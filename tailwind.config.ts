@@ -1,3 +1,4 @@
+import { Poppins } from "next/font/google";
 import type { Config } from "tailwindcss";
 
 const config: Config = {
@@ -23,6 +24,9 @@ const config: Config = {
         "light-gray": "hsl(217, 12%, 63%)",
       },
     },
+    fontFamily: {
+      poppinsRegular: ['Poppins-Regular']
+    }
   },
   plugins: [],
 };

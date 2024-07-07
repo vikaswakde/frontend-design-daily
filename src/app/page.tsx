@@ -14,6 +14,9 @@ export default function Home() {
           <a href="/frontend-mentor-2" className="cursor-pointer">
             2. Feedback Rating Card Design
           </a>
+          <a href="/frontend-mentor-3" className="cursor-pointer">
+            3. Age Calulator Card Responsive Design
+          </a>
         </li>
       </ul>
     </div>
