@@ -25,8 +25,9 @@ const config: Config = {
       },
     },
     fontFamily: {
-      poppinsRegular: ['Poppins-Regular']
-    }
+      poppinsRegular: ["Poppins-Regular"],
+      digitalClock: ["digital-7"],
+    },
   },
   plugins: [],
 };

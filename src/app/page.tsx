@@ -11,11 +11,20 @@ export default function Home() {
           <a href="/frontend-mentor-1" className="cursor-pointer">
             1. Responsive Card Design
           </a>{" "}
+        </li>
+        <li>
           <a href="/frontend-mentor-2" className="cursor-pointer">
             2. Feedback Rating Card Design
           </a>
+        </li>
+        <li>
           <a href="/frontend-mentor-3" className="cursor-pointer">
             3. Age Calulator Card Responsive Design
+          </a>
+        </li>
+        <li>
+          <a href="/stop-watch" className="cursor-pointer">
+            3. Stop Watch Design
           </a>
         </li>
       </ul>

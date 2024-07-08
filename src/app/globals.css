@@ -35,4 +35,6 @@ body {
 @font-face {
   font-family: "Poppins-Regular";
   src: url("../../public/assets/fonts/Poppins-Regular.ttf");
+  font-family: "digital-7";
+  src: url("../../public/assets/fonts/digital-7.ttf");
 }
