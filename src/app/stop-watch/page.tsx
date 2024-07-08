@@ -15,6 +15,7 @@ const Page = () => {
       // setting time from 0 to 1 every 10 milliseconds using js setInterval time
       intervalId = setInterval(() => setTime(time + 1), 10);
     }
+    // @ts-expect-error
     return () => clearInterval(intervalId);
   }, [isRunning, time]);
 
